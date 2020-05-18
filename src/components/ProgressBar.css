@@ -1,0 +1,14 @@
+.progressWrapper{
+  width: 100%;
+  padding: 10px;
+}
+
+.progressNotification{
+  font-size: 0.6em;
+  color: #FFF;
+}
+
+.progressBar{
+  width: 95%;
+  margin: auto;
+}

@@ -1,0 +1,22 @@
+.ListItemContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  color: #FFF;
+  height: 10%;
+  margin: 10px 0;
+  border-radius: 3px;
+  background: linear-gradient(180deg, rgba(86,87,91,1) 0%, rgba(90,91,95,1) 65%, rgba(101,100,105,1) 100%); 
+}
+
+.iconContainer{
+  display: inherit;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconContainer span {
+  font-size: 0.5em;
+}
