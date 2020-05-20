@@ -48,7 +48,7 @@ function setLocalCache(data, keyName){
 }
 
 function lastUpdatedData(keyName){  
-  if(localStorage.getItem(KeyName) === null) {
+  if(localStorage.getItem(keyName) === null) {
     return "Sorry, we can't seem to retrieve the necessary data at the moment";
   } else {
     return JSON.parse(localStorage.getItem(keyName));
