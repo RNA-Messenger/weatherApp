@@ -2,8 +2,7 @@
 Just another weather app by Agostina Noelia Rubisse
 
 
-# Frontend Challenge
-I want to thank you for the opportunity of submitting this challenge.
+# What I did
 I could have used create-react-app but I decided to show some extra effort and set the environment from scratch.
 Please, change the babelrc.txt to .babelrc, otherwise it won't compile.
 You can run the app by doing `npm run build`, but remember to do `npm install` first!
